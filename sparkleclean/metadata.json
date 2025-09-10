@@ -1,0 +1,5 @@
+{
+  "name": "SparkleClean",
+  "description": "A web application for a cleaning service company, allowing users to book services, check booking status, and administrators to manage bookings and settings.",
+  "requestFramePermissions": []
+}
